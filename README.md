@@ -9,6 +9,6 @@ If you want to see a commented version please ask, or in fact check out my path 
 
 TODO:
 
-detailed compliation
-detailed features of the aglorithm
-possible improvements
+- Detailed compliation
+- Detailed features of the aglorithm
+- Possible improvements
